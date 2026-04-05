@@ -1,16 +1,23 @@
 # nuke_bot-discord
-A nuke bot for discord troll
-Commandes de base
-  !ping – Test la latence du bot
-  !test – Vérifie si le bot fonctionne
-  !help – Affiche la liste des commandes
-  !talk <message> – Fait parler le bot avec le message donné
-Commandes modération
-  !create <nom_salon> <nombre> – Crée un ou plusieurs salons texte (max 100)
-  !ban <@membre|ALL> [raison] – Bannit un membre ou tous les membres (hors admins et bot)
-  !kick <@membre|ALL> [raison] – Expulse un membre ou tous les membres (hors admins et bot)
-  !clear <nombre> – Supprime les derniers messages du salon (1 à 100)
-  !confirm_ban_all – Confirme le ban de tous les membres (après !ban ALL)
-  !confirm_kick_all – Confirme le kick de tous les membres (après !kick ALL)
-Commandes spam
-  !spam <message> <nombre> – Envoie un message X fois dans le salon (max 5000)
+Basic Commands
+
+  !ping – Test the bot's latency
+  !test – Check if the bot is working
+  !help – Show the list of commands
+  !talk – Make the bot say the given message
+
+Moderation Commands
+
+  !create <channel_name> – Create one or multiple text channels (max 100)
+  !ban <@member|ALL> [reason] – Ban a member or everyone (excluding admins and the bot)
+  !kick <@member|ALL> [reason] – Kick a member or everyone (excluding admins and the bot)
+  !clear <amount> – Delete the last messages in the channel (1 to 100)
+  !confirm_ban_all – Confirm banning all members (after !ban ALL)
+  !confirm_kick_all – Confirm kicking all members (after !kick ALL)
+
+Spam Commands
+
+  !spam <message> <amount> – Send a message multiple times in the channel (max 5000)
+
+Disclaimer
+This bot is intended for testing or trolling in servers where you have permission. The developer is not responsible for any misuse, damage, or issues caused by this bot. Use at your own risk.
