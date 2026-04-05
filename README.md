@@ -19,5 +19,11 @@ Spam Commands
 
   !spam <message> <amount> – Send a message multiple times in the channel (max 5000)
 
+Setup Requirements
+
+This bot requires a .env file containing the bot token:
+  TOKEN=your_bot_token_here
+Without the .env file and a valid token, the bot will not work.
+
 Disclaimer
 This bot is intended for testing or trolling in servers where you have permission. The developer is not responsible for any misuse, damage, or issues caused by this bot. Use at your own risk.
