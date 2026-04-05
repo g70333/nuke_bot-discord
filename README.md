@@ -58,4 +58,9 @@ Run the bot:
 
 
 Disclaimer
-  This bot is intended for testing or trolling in servers where you have permission. The developer is not responsible for any misuse, damage, or issues caused by this bot. Use at your own risk.
+This bot is intended for educational purposes and controlled testing environments only.
+Do not use it on servers you do not own or without explicit permission.
+
+Misuse of this bot may violate Discord's Terms of Service.
+The developers are not responsible for any misuse, damage, or issues caused by this bot.
+Use at your own risk.
